@@ -1,0 +1,16 @@
+[
+  {
+    "id": 7,
+    "full_name": "Ganesh",
+    "age": 27,
+    "dob": "1995-08-11",
+    "num_classes": 10
+  },
+  {
+    "id": 8,
+    "full_name": "Lokesh",
+    "age": 27,
+    "dob": "1995-06-30",
+    "num_classes": 25
+  }
+]
